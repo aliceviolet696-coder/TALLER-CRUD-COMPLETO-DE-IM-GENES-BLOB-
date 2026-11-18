@@ -1,0 +1,21 @@
+{
+  "name": "mi-proyecto-jwt",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "CRUD completo de mascotas con imagenes BLOB, React y JWT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.0",
+    "vite": "^7.2.2"
+  }
+}

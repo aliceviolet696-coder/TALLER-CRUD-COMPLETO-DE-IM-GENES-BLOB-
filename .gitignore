@@ -1,0 +1,15 @@
+# Backend
+taller_jwt/target/
+*.class
+
+# Frontend
+mi-proyecto-jwt/node_modules/
+mi-proyecto-jwt/dist/
+mi-proyecto-jwt/.env
+mi-proyecto-jwt/.env.local
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+*.log
